@@ -20,4 +20,4 @@ A minimalistic blog template designed to get your Blazor-based blog up and runni
 
 ## Acknowledgements
 
-The theme for wayne_blackmon was heavily inspired by [Tailwind Next.js Starter Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog).
+The theme for wayne_blackmon was heavily inspired by [Tailwind Next.js Starter Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog). 
